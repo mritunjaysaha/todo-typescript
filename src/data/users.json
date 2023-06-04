@@ -1,0 +1,8 @@
+{
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDViNmM5YjkwMjcyNjhlYTMwODIwMWIiLCJpYXQiOjE2ODU4NzQ0MTd9.22QltyUPS1A4dppHS47bebMRF3JtsULpYac1di_g4ZA",
+    "user": {
+        "email": "johndoe@foo.com",
+        "firstName": "John",
+        "lastName": "Doe"
+    }
+}
